@@ -1,0 +1,56 @@
+.section-solution{
+  padding-bottom: 620px;
+  background-image: url("../../img/png/tablet-img.png");
+  background-repeat: no-repeat;
+  background-position: calc(50% - 50px) calc(50% + 130px);
+  position: relative;
+}
+.solution__content {
+  width: 700px;
+  margin: 0 auto;
+  padding: 100px 0;
+  text-align: center;
+}
+.solution__event {
+  font-weight: normal;
+  font-size: 11px;
+  line-height: 22px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #0057FF;
+  margin-bottom: 4px;
+}
+.solution__title {
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 48px;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #000000;
+  margin: 0;
+  margin-bottom: 39px;
+}
+.solution__text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #000000;
+  margin: 0;
+}
+.solution__text-buttom {
+  display: inline-block;
+  position: absolute;
+  bottom: 180px;
+  right: 0;
+  left: 0;
+  margin: 0 auto;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 26px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000000;
+}

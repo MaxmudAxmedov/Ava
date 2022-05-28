@@ -1,0 +1,79 @@
+.section-digital{
+  background-image: url("../../img/png/bg-img-hero.png");
+  background-repeat: no-repeat;
+  background-position: calc(50% + 320px) calc(50% + 50px);
+}
+.digital {
+  padding: 180px 720px 120px 0;
+  margin-bottom: 33px;
+}
+.digital__content {
+  width: 600px;
+}
+.digital__title {
+  font-weight: normal;
+  font-size: 56px;
+  line-height: 66px;
+  text-transform: uppercase;
+  color: #000000;
+  margin: 0;
+  margin-bottom: 39px;
+}
+.digital__text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #000000;
+  margin: 0;
+  margin-bottom: 17px;
+}
+.digital__box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40px;
+}
+.digital__img-avatar{
+  height: 80px;
+  width: 80px;
+  margin-right: 20px;
+}
+.digital__info-title {
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: #000000;
+  margin: 0;
+  margin-bottom: 10px;
+  margin-left: 20px;
+}
+.star__list {
+  width: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: none;
+  margin: 0;
+  margin-left: 17px;
+  padding: 0;
+}
+.star__img {
+  height: 18px;
+  width: 18px;
+}
+.digital_link {
+  display: inline-block;
+  height: 52px;
+  width: 176px;
+  text-decoration: none;
+  background: #FFA332;
+  border-radius: 30px;
+  padding: 14px 40px;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}

@@ -1,0 +1,60 @@
+.sectoin-world{
+  background-image: url("../../img/png/rectangle-group.png");
+  background-repeat: no-repeat;
+  background-position: calc(50% - 360px) calc(50% + 20px);
+}
+.world {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 100px;
+  padding: 20px 0 60px;
+}
+.world__content {
+  height: 608px;
+  width: 540px;
+}
+.world__title {
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 50px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #000000;
+  margin: 0;
+  margin-bottom: 48px;
+}
+.world__text {
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 26px;
+  color: #000000;
+  margin: 0;
+  margin-bottom: 57px;
+}
+.world__form {
+  width: 500px;
+  height: 356px;
+  margin: 0 auto;
+  border: 1px solid #d8d8d8;
+  border-radius: 6px;
+}
+.form__check-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 40px;
+}
+.form__text {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+  text-transform: uppercase;
+  color: #000000;
+  margin: 0;
+}
+.form__img-plus{
+  width: 25px;
+  height: 25px;
+  fill: #0057FF;
+}
